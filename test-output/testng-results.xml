@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4957" started-at="2021-11-11T17:50:07 IST" finished-at="2021-11-11T17:50:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4957" started-at="2021-11-11T17:50:07 IST" finished-at="2021-11-11T17:50:12 IST">
+      <class name="com.parameters.GithubParamTest">
+        <test-method status="PASS" signature="pathandqueryparam()[pri:0, instance:com.parameters.GithubParamTest@3dfc5fb8]" name="pathandqueryparam" duration-ms="4903" started-at="2021-11-11T17:50:07 IST" finished-at="2021-11-11T17:50:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pathandqueryparam -->
+      </class> <!-- com.parameters.GithubParamTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
